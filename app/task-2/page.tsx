@@ -38,6 +38,7 @@ export default function LearnPge() {
                 <p className="rounded-full w-8 h-8 border-3 border-green-100 bg-green-300 -ml-3 flex items-center justify-center">3+</p>
             </div> 
             </div>
+            <img src="/topology-star.svg" className="absolute top-8 right-7"/>
         </div>
         </div>
 
